@@ -2,7 +2,7 @@
 
 **Link to Heroku app -** https://data551-app-v1.herokuapp.com/
 
-![Dash Python GIF](dashboard_sketch/Dash Python.gif)
+![Dash Python GIF](dashboard_sketch/Dash_Recording_Python.gif)
 
 # WorldSustainabilityDashboard
 
